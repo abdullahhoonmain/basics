@@ -8,15 +8,15 @@
 </head>
 <body>
     <form action="" method="get">
-        <label for="">first name</label>
+        <label for="">your First name</label>
         <input type="text" name="firstname" id="firstname">
         <br><br>
         <label for="">email</label>
         <input type="email" name="email" id="email">
-        <label for="">password</label>
+        <label for="">your Password</label>
         <input type="password" name="password" id="password" placeholder="password">
         <br><br>
-        <label for="">DOB</label>
+        <label for="">DOb</label>
         <input type="date" name="dob" id="dob">
         <br><br>
         <label for="">gender</label>
